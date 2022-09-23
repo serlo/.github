@@ -11,6 +11,15 @@ Thus we have created and further improve the website https://serlo.org – a wik
 Everybody can create and edit learning material (articles, courses, videos, exercises, ...).
 As open educational resources they can be used, shared and modified by everbody (similar to open source).
 
+## Our core values
+We are a passionate team of diverse people who believe in the following core values:
+
+* 🚀 **Impact:** Our mission is nothing less than providing excellent education for free to everyone and everywhere on the world!
+* 🥰 **Work with purpose:** Everybody in our team takes responsibility for our mission and for each other. Each day we make a (little) impact for a more just world.
+* 🎉 **Having fun:** Work always shall be fun! We take care of ourselfes and celebrate our progress.
+* ✨ **New work – the right way:** We lead together in a efficient and agile way. We give space so that everybody can  work on one's own responsibility.
+* 🤝 **Together:** We teach, empower and inspire each other. We can only achieve our mission of educational equity together in a team and together with other organisations.
+
 ## Help us in our mission of educational equity
 
 All of our software is of course open source. We are happy about every contributor who helps us on our mission to achieve educational equity.
@@ -27,4 +36,4 @@ We also have marked good starting issues in our repositories with the tag `good 
 
 ## We are hiring – digital education needs you
 
-We are looking for backend and frontend developers who want to be part of our mission. Have a look at our [open position for software developers](https://serlo.jobs.personio.de/job/779143) where you are also able to apply. Have a look at what you can expect from a work at Serlo Education:
+We are looking for backend and frontend developers who want to be part of our mission. Have a look at our [open position for software developers](https://serlo.jobs.personio.de/job/779143) where you are also able to apply. Our core values show what you can expect from a job at Serlo Education.
