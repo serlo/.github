@@ -1,6 +1,6 @@
 ## Serlo Education – Free and open education for everyone 💡
 
-![The team of Serlo Education e.V.](https://user-images.githubusercontent.com/1327215/191999233-9c0d0a2c-0c6d-45b4-b146-27d11ed36feb.jpg)
+![The team of Serlo Education e.V.](https://raw.githubusercontent.com/serlo/.github/main/assets/serlo-team.jpg)
 
 Hey! 👋 Welcome at the GitHub organisation of Serlo Education!
 We follow the mission that education shall be diverse, free and open for everyone.
