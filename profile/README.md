@@ -12,13 +12,14 @@ On this website everybody can create and edit learning material (articles, cours
 As open educational resources they can be used, shared and modified by everbody (similar to open source).
 
 ## Our core values
+
 We are a passionate team and community of diverse people who believe in the following core values:
 
-* 🚀 **Impact:** Our mission is nothing less than providing excellent education for free to everyone and everywhere on the world!
-* 🥰 **Work with purpose:** Everybody in our team takes responsibility for our mission. Each day we make a (little) impact for a more just world.
-* 🎉 **Having fun:** Work always shall be fun! We take care of ourselfes and our mental and physical health. We celebrate our progress.
-* ✨ **New work – the right way:** We lead together in a efficient and agile way. We give space so that everybody can work on one's own responsibility.
-* 🤝 **Together:** We teach, empower and inspire each other. We can only achieve our mission of educational equity together in a team and together with other organisations.
+- 🚀 **Impact:** Our mission is nothing less than providing excellent education for free to everyone and everywhere on the world!
+- 🥰 **Work with purpose:** Everybody in our team takes responsibility for our mission. Each day we make a (little) impact for a more just world.
+- 🎉 **Having fun:** Work always shall be fun! We take care of ourselfes and our mental and physical health. We celebrate our progress.
+- ✨ **New work – the right way:** We lead together in a efficient and agile way. We give space so that everybody can work on one's own responsibility.
+- 🤝 **Together:** We teach, empower and inspire each other. We can only achieve our mission of educational equity together in a team and together with other organisations.
 
 ## Help us in our mission of educational equity
 
@@ -32,11 +33,12 @@ We are also hiring! To achieve our mission we are looking for talented backend a
 > [**Become a software developer at Serlo Education (full/part time)**](https://serlo.jobs.personio.de/job/779143)
 
 ## Getting started
+
 We have marked good starting issues in our repositories with the tag `good first issue`. You can find them in our main repositories at:
 
-* [frontend](https://github.com/serlo/frontend/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-* [api.serlo.org](https://github.com/serlo/api.serlo.org/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-* [database-layer](https://github.com/serlo/serlo.org-database-layer/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-* [cloudflare-worker](https://github.com/serlo/serlo.org-cloudflare-worker/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- [frontend](https://github.com/serlo/frontend/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- [api.serlo.org](https://github.com/serlo/api.serlo.org/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- [database-layer](https://github.com/serlo/serlo.org-database-layer/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- [cloudflare-worker](https://github.com/serlo/serlo.org-cloudflare-worker/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 
 Reach to us at [de@serlo.org](mailto:de@serlo.org) when you want to contribute or you need help.
