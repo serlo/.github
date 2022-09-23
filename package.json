@@ -1,0 +1,9 @@
+{
+  "name": "@serl/github-profile",
+  "version": "0.0.0",
+  "description": "profile page for https://github.com/serlo",
+  "repository": "https://github.com/serlo/.github",
+  "author": "Serlo Education e.V.",
+  "license": "CC-BY-SA 4.0",
+  "private": true
+}
