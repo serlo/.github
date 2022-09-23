@@ -14,7 +14,8 @@ As open educational resources they can be used, shared and modified by everbody 
 ## Help us in our mission of educational equity
 
 All of our software is of course open source. We are happy about every contributor who helps us on our mission to achieve educational equity.
-Do you want to help? Let's get in contact and discuss where your contribution is needed the most.
+Do you want to help? Do you have feedback what we can make better?
+Let's get in contact and discuss where your contribution is needed the most.
 You can reach us via [de@serlo.org](mailto:de@serlo.org).
 
 We also have marked good starting issues in our repositories with the tag `good first issue`. You can find them in our main repositories at:
@@ -23,3 +24,7 @@ We also have marked good starting issues in our repositories with the tag `good 
 * [api.serlo.org](https://github.com/serlo/api.serlo.org/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 * [database-layer](https://github.com/serlo/serlo.org-database-layer/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 * [cloudflare-worker](https://github.com/serlo/serlo.org-cloudflare-worker/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+
+## We are hiring – digital education needs you
+
+We are looking for backend and frontend developers who want to be part of our mission. Have a look at our [open position for software developers](https://serlo.jobs.personio.de/job/779143) where you are also able to apply. Have a look at what you can expect from a work at Serlo Education:
