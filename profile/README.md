@@ -24,7 +24,7 @@ following core values:
   mission. Each day we make a (little) impact for a more just world.
 - 🎉 **Having fun:** Work always shall be fun! We take care of ourselfes and our
   mental and physical health. We celebrate our progress.
-- ✨ **New work – the right way:** We lead together in a efficient and agile
+- ✨ **New work – the right way:** We lead together in an efficient and agile
   way. We give space so that everybody can work on one's own responsibility.
 - 🤝 **Together:** We teach, empower and inspire each other. We can only achieve
   our mission of educational equity together in a team and together with other
