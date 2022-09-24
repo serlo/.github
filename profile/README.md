@@ -38,7 +38,7 @@ want to help? Do you have feedback what we can make better? Let's get in contact
 and discuss where your contribution is needed the most. You can reach us via
 [de@serlo.org](mailto:de@serlo.org).
 
-We are also hiring! To achieve our mission we are looking for talented backend
+We are also hiring! To achieve our mission, we are looking for talented backend
 and frontend software developers who are passionate about education. Have a look
 at our open job position:
 
