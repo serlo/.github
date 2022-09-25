@@ -54,4 +54,5 @@ We have marked good starting issues in our repositories with the tag
 - [database-layer](https://github.com/serlo/serlo.org-database-layer/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - [cloudflare-worker](https://github.com/serlo/serlo.org-cloudflare-worker/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 
-Reach out to us at [de@serlo.org](mailto:de@serlo.org) to contribute or for help.
+Reach out to us at [de@serlo.org](mailto:de@serlo.org) to contribute or for
+help.
