@@ -56,3 +56,9 @@ We have marked good starting issues in our repositories with the tag
 
 Reach out to us at [de@serlo.org](mailto:de@serlo.org) to contribute or for
 help.
+
+## Further reading
+
+- [An overview of serlo.org (German)](https://de.serlo.org/features)
+- [How we want to achieve impact (German)](https://de.serlo.org/wirkung)
+- [Open job positions (German)](https://de.serlo.org/jobs)
