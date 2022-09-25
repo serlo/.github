@@ -11,7 +11,7 @@ Thus we have created and further improve the website https://serlo.org – a wik
 for educational material. On this website everybody can create and edit learning
 material (articles, courses, videos, exercises, ...). As open educational
 resources they can be used, shared and modified by everbody (similar to open
-source).
+source). Currently we reach over 1 million user per month.
 
 ## Our core values
 
