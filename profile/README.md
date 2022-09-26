@@ -2,12 +2,13 @@
 
 <img width="75%" alt="The team of Serlo Education e.V." src="https://raw.githubusercontent.com/serlo/.github/main/assets/serlo-team.jpg" />
 
-Hey! 👋 Welcome Serlo Education's GitHub!<br/>
-We vision is a diverse, free and open education for everyone. Everbody should be able to fufill their potential in the educational system – regardless of the financial possibilities or the social background.
+Hey! 👋 Welcome Serlo Education's GitHub!<br/> We vision is a diverse, free and
+open education for everyone. Everbody should be able to fufill their potential
+in the educational system – regardless of the financial possibilities or the
+social background.
 
-
-We work on [serlo.org](https://serlo.org) – a learning plattform with a wiki approach. <br/>
-On **serlo.org** everybody can create and edit learning
+We work on [serlo.org](https://serlo.org) – a learning plattform with a wiki
+approach. <br/> On **serlo.org** everybody can create and edit learning
 materials (articles, courses, videos, exercises, ...). As open educational
 resources they can be used, shared and modified by everbody (similar to open
 source). Currently we reach over 1 million user per month.
@@ -35,11 +36,12 @@ All of our software is of course open source. We are happy about every
 contributor who helps us on our mission to achieve educational equity. Do you
 want to help? Do you have feedback what we can make better? Let's get in contact
 and discuss where your contribution is needed the most. You can reach us via
-[de@serlo.org](mailto:de@serlo.org) or on our [community chat](https://community.serlo.org/channel/welcome-introduce-yourself).
+[de@serlo.org](mailto:de@serlo.org) or on our
+[community chat](https://community.serlo.org/channel/welcome-introduce-yourself).
 
-**Also: We are hiring!** To achieve our mission, we are looking for talented backend
-and frontend software developers who are passionate about education. Have a look
-at our open job position:
+**Also: We are hiring!** To achieve our mission, we are looking for talented
+backend and frontend software developers who are passionate about education.
+Have a look at our open job position:
 
 > [**Become a software developer at Serlo Education (full/part time)**](https://serlo.jobs.personio.de/job/779143)
 
