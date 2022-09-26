@@ -35,7 +35,7 @@ All of our software is of course open source. We are happy about every
 contributor who helps us on our mission to achieve educational equity. Do you
 want to help? Do you have feedback what we can make better? Let's get in contact
 and discuss where your contribution is needed the most. You can reach us via
-[de@serlo.org](mailto:de@serlo.org) or on our [community chat](https://community.serlo.org/).
+[de@serlo.org](mailto:de@serlo.org) or on our [community chat](https://community.serlo.org/channel/welcome-introduce-yourself).
 
 **Also: We are hiring!** To achieve our mission, we are looking for talented backend
 and frontend software developers who are passionate about education. Have a look
@@ -52,9 +52,6 @@ We have marked good starting issues in our repositories with the tag
 - [api.serlo.org](https://github.com/serlo/api.serlo.org/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - [database-layer](https://github.com/serlo/serlo.org-database-layer/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - [cloudflare-worker](https://github.com/serlo/serlo.org-cloudflare-worker/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-
-Reach out to us at [de@serlo.org](mailto:de@serlo.org) to contribute in other ways or for
-help.
 
 ## Further reading
 
