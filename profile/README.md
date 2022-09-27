@@ -7,21 +7,22 @@ and open education for everyone. Everybody should be able to fufill their
 potential in the educational system – regardless of financial possibilities or
 social background.
 
-[serlo.org](https://serlo.org) is a learning plattform with a wiki
-approach. <br/> On **serlo.org** anybody can create and edit learning materials
-(articles, courses, videos, exercises, ...). Similar to open source code those
-then can be used, shared and modified by everybody. Currently we reach over 1
-million users per month.
+[serlo.org](https://serlo.org) is a learning plattform with a wiki approach.
+<br/> On **serlo.org** anybody can create and edit learning materials (articles,
+courses, videos, exercises, ...). Similar to open source code those then can be
+used, shared and modified by everybody. Currently we reach over 1 million users
+per month.
 
 ## Our core values
 
 We are a passionate team and community of diverse people who believe in the
 following core values:
 
-- 🚀 **Impact:** Our mission is to provide providing excellent education
-  to everyone for free - everywhere in the world!
+- 🚀 **Impact:** Our mission is to provide providing excellent education to
+  everyone for free - everywhere in the world!
 - 🥰 **Work with a purpose:** Everybody in our team takes responsibility for our
-  mission. Every day we make a (little) contribution to more equity in the world.
+  mission. Every day we make a (little) contribution to more equity in the
+  world.
 - 🎉 **Having fun:** Work should be fun! We take care of each other and our
   mental and physical health. We celebrate our progress.
 - ✨ **New work – the right way:** We lead together in an efficient and agile
