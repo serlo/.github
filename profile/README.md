@@ -7,7 +7,7 @@ and open education for everyone. Everybody should be able to fufill their
 potential in the educational system – regardless of financial possibilities or
 social background.
 
-We work on [serlo.org](https://serlo.org) – a learning plattform with a wiki
+[serlo.org](https://serlo.org) is a learning plattform with a wiki
 approach. <br/> On **serlo.org** anybody can create and edit learning materials
 (articles, courses, videos, exercises, ...). Similar to open source code those
 then can be used, shared and modified by everybody. Currently we reach over 1
@@ -18,10 +18,10 @@ million users per month.
 We are a passionate team and community of diverse people who believe in the
 following core values:
 
-- 🚀 **Impact:** Our mission is nothing less than providing excellent education
-  to everyone for free. Everywhere in the world!
+- 🚀 **Impact:** Our mission is to provide providing excellent education
+  to everyone for free - everywhere in the world!
 - 🥰 **Work with a purpose:** Everybody in our team takes responsibility for our
-  mission. Every day we make a (little) contribution to a more just world.
+  mission. Every day we make a (little) contribution to more equity in the world.
 - 🎉 **Having fun:** Work should be fun! We take care of each other and our
   mental and physical health. We celebrate our progress.
 - ✨ **New work – the right way:** We lead together in an efficient and agile
@@ -33,10 +33,10 @@ following core values:
 
 ## Help us in our mission of educational equality
 
-Naturally, all of our software is open source. We are happy about every
+Of course, all of our software is open source. We are happy about every
 contributor who helps us on our mission to achieve educational equality. Do you
 want to help? Do you have suggestions on how we can improve? Get in touch and
-let's discuss where your contribution is needed the most. You can reach us via
+let's discuss how you can contribute in an impactful way. You can reach us via
 [de@serlo.org](mailto:de@serlo.org) or on our
 [community chat](https://community.serlo.org/channel/welcome-introduce-yourself).
 
