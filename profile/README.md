@@ -18,8 +18,8 @@ per month.
 We are a passionate team and community of diverse people who believe in the
 following core values:
 
-- 🚀 **Impact:** Our mission is to provide providing excellent education to
-  everyone for free - everywhere in the world!
+- 🚀 **Impact:** Our mission is to provide excellent education to everyone for
+  free - everywhere in the world!
 - 🥰 **Work with a purpose:** Everybody in our team takes responsibility for our
   mission. Every day we make a (little) contribution to more equity in the
   world.
