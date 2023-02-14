@@ -1,6 +1,6 @@
-node_modules
+/node_modules/
 
-# Yarn
+# Yarn (with Zero-Installs)
 .yarn/*
 !.yarn/cache
 !.yarn/patches
