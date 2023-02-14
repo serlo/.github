@@ -45,7 +45,7 @@ let's discuss how you can contribute in an impactful way. You can reach us via
 backend and frontend software developers who are passionate about education.
 Have a look at our open job openings:
 
-> [**Become a software developer at Serlo Education (full/part time)**](https://serlo.jobs.personio.de/job/779143)
+> [**Become a software developer at Serlo Education (full/part time)**](https://serlo.jobs.personio.de/job/925909?display=en)
 
 ## Getting started
 
