@@ -7,7 +7,8 @@ and open education for everyone. Everybody should be able to fufill their
 potential in the educational system – regardless of financial possibilities or
 social background.
 
-Thus we have build **[serlo.org](https://serlo.org)** – a learning platform with a wiki approach. On it  anybody can create and edit learning materials (articles,
+Thus we have build **[serlo.org](https://serlo.org)** – a learning platform with
+a wiki approach. On it anybody can create and edit learning materials (articles,
 courses, videos, exercises, ...). Similar to open source code those then can be
 used, shared and modified by everybody. Currently we reach over 1 million users
 per month.
