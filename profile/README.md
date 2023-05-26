@@ -3,7 +3,7 @@
 <img width="75%" alt="The team of Serlo Education e.V." src="https://raw.githubusercontent.com/serlo/.github/main/assets/serlo-team.jpg" />
 
 Hey! 👋 Welcome to Serlo Education's GitHub!<br/> Our vision is a diverse, free
-and open education for everyone. Everybody should be able to fufill their
+and open education for everyone. Everybody should be able to fulfill their
 potential in the educational system – regardless of financial possibilities or
 social background.
 
