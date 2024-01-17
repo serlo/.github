@@ -56,7 +56,6 @@ repositories at:
 
 - [frontend](https://github.com/serlo/frontend/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - [api.serlo.org](https://github.com/serlo/api.serlo.org/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-- [database-layer](https://github.com/serlo/serlo.org-database-layer/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - [cloudflare-worker](https://github.com/serlo/serlo.org-cloudflare-worker/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 
 ## Further reading
