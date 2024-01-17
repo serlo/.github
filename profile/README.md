@@ -45,6 +45,7 @@ let's discuss how you can contribute in an impactful way. You can reach us via
 backend and frontend software developers who are passionate about education.
 Have a look at our open job openings:
 
+- [**Head of software**](https://serlo.jobs.personio.de/job/1367069?display=de#apply)
 - [**Senior software developer (full/part time)**](https://serlo.jobs.personio.de/job/925909?display=en)
 
 ## Getting started
@@ -55,7 +56,6 @@ repositories at:
 
 - [frontend](https://github.com/serlo/frontend/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - [api.serlo.org](https://github.com/serlo/api.serlo.org/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-- [database-layer](https://github.com/serlo/serlo.org-database-layer/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - [cloudflare-worker](https://github.com/serlo/serlo.org-cloudflare-worker/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 
 ## Further reading
