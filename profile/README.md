@@ -41,13 +41,6 @@ let's discuss how you can contribute in an impactful way. You can reach us via
 [de@serlo.org](mailto:de@serlo.org) or on our
 [community chat](https://community.serlo.org/channel/welcome-introduce-yourself).
 
-**Also: We are hiring!** To accomplish our mission, we are looking for talented
-backend and frontend software developers who are passionate about education.
-Have a look at our open job openings:
-
-- [**Head of software (full/part time)**](https://serlo.jobs.personio.de/job/1367069?display=en)
-- [**Senior software developer (full/part time)**](https://serlo.jobs.personio.de/job/925909?display=en)
-
 ## Getting started
 
 We have marked good first issues in our repositories with the tag
