@@ -56,3 +56,11 @@ repositories at:
 - [An overview of serlo.org (German)](https://de.serlo.org/features)
 - [How we want to achieve impact (German)](https://de.serlo.org/wirkung)
 - [Open job positions (German)](https://de.serlo.org/jobs)
+
+## Funding
+
+<img src="https://github.com/serlo/.github/blob/main/assets/eu.png?raw=true" alt="Logo European Commission" title="European Comission" align="right" height="150" />
+<img src="https://github.com/serlo/.github/blob/main/assets/bmbf.png?raw=true" alt="Logo BMBF" title="BMBF" align="right" height="150" />
+
+Part of our work is generously funded by the German Federal Ministry of
+Education and Research (BMBF) under the funding code LENABI2.
