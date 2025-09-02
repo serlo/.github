@@ -32,25 +32,6 @@ following core values:
   our mission of educational equality as a team and together with other
   organisations.
 
-## Help us in our mission of educational equality
-
-Of course, all of our software is open source. We are happy about every
-contributor who helps us on our mission to achieve educational equality. Do you
-want to help? Do you have suggestions on how we can improve? Get in touch and
-let's discuss how you can contribute in an impactful way. You can reach us via
-[de@serlo.org](mailto:de@serlo.org) or on our
-[community chat](https://community.serlo.org/channel/welcome-introduce-yourself).
-
-## Getting started
-
-We have marked good first issues in our repositories with the tag
-`good first issue` to get you started. You can find them in our main
-repositories at:
-
-- [frontend](https://github.com/serlo/frontend/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-- [api.serlo.org](https://github.com/serlo/api.serlo.org/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-- [cloudflare-worker](https://github.com/serlo/serlo.org-cloudflare-worker/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-
 ## Further reading
 
 - [An overview of serlo.org (German)](https://de.serlo.org/features)
